@@ -35,9 +35,10 @@ To visualize customer churn data through interactive reports and dashboards, ena
 - Long-term contracts contribute to better customer retention.
 - The overall churn rate is approximately 26.5%.
 
-## Power BI File View
 
-![Dashboard](Dashboard/Customer_Churn_Dashboard.png)
+## Dashboard Preview
+
+The dashboard screenshot is available in the **Dashboard** folder.
 
 ## Output
 
